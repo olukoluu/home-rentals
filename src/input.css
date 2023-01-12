@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#header{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../photos/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+figure span:first-of-type{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../photos/unsplash_nEtpvJjnPVo.png);
+    background-position: center;
+    background-size: cover;
+}
+
+figure span:nth-of-type(2){
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../photos/Image\ 2.png);
+    background-position: center;
+    background-size: cover;
+}
+
+figure span:nth-of-type(3){
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../photos/unsplash_uooMllXe6gE.png);
+    background-position: center;
+    background-size: cover;
+}
+
+figure span:nth-of-type(4){
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../photos/unsplash_XdWkFaHI97c.png);
+    background-position: center;
+    background-size: cover;
+}
